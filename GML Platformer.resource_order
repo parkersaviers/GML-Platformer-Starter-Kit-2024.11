@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"sBackground","order":6,"path":"sprites/sBackground/sBackground.yy",},
     {"name":"sClouds","order":5,"path":"sprites/sClouds/sClouds.yy",},
     {"name":"sGrain","order":4,"path":"sprites/sGrain/sGrain.yy",},
