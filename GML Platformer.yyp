@@ -44,6 +44,7 @@
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},},
     {"id":{"name":"sPlayerR","path":"sprites/sPlayerR/sPlayerR.yy",},},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
     {"id":{"name":"sWalls","path":"sprites/sWalls/sWalls.yy",},},
     {"id":{"name":"tWalls","path":"tilesets/tWalls/tWalls.yy",},},
   ],
